@@ -1,0 +1,52 @@
+p {
+    display: block;
+    font-size: 20px;
+    width: 40em;
+    height: 2em;
+    background-color: blue;
+    color: rgb(106, 106, 106)
+    
+    
+}
+
+span{
+    
+    color: yellowgreen;
+
+}
+
+h1{
+    background-color: rgb(220, 70, 20);
+    color:white
+    
+    
+}
+
+h2 {
+    background-color: yellow;
+    color: blue;
+    padding: 15PX;
+    border: solid , #183f18 , 20px;
+    color: red
+    
+    
+}
+
+img {
+    font-size: large;
+    margin: 0cqb;
+}
+
+p {
+    background-color: #d5d037;
+    color: brown;
+    margin: 5px
+    
+    
+}
+
+.mensagem-paz{
+    background-color: #d5d037;
+    color: aliceblue;
+}
+
